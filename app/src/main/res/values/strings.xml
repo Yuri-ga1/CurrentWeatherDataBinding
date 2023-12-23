@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">CurrentWeatherDataBinding</string>
+    <string name="Time">Время: </string>
+    <string name="WindSpeed">Скорость ветра: </string>
+    <string name="Temperature">Температура: </string>
+    <string name="UpdateBtn">Обновить</string>
+    <string name="EnterCity">Введите название города</string>
+</resources>
